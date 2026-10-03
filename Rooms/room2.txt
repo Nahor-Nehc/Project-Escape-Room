@@ -64,7 +64,7 @@ Three goes to five, four goes to four but five goes to four and seven goes to fi
 Another one...
 True
 The paper is course and old
-4
+four
 Yes! Of course, the number of letters in the number is what it goes to! Now for the last puzzle (PUZZLE3)
 //end
 puzzle3
