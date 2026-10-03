@@ -1,0 +1,71 @@
+3 is very different to 2
+There are fewer items in this room
+At the end is the exit door
+Between the doors is a rusty, old CHEST with a letter-based scroll lock
+A TABLE in the corner on the left has a CARD on it
+The game is on
+Again
+//end
+card
+read, touch
+False
+No point really
+RUUQ GZ ZNK IKOROTM (key = 6)
+... yay ...
+True
+Made from high grade paper
+//end
+table
+touch
+False
+Too heavy
+False
+None
+False
+Feels like a normal table
+//end
+ceiling
+touch, read
+False
+How do you plan on taking the ceiling?
+There are 4 WORDS scrawled across the ceiling
+Who put those up there?
+False
+I can't quite reach it ...
+//end
+words
+touch, read
+False
+... ?
+sator, arepo, tenet, opera, ??? (you may need to look this up)
+Where have I seen those before...?
+True
+I can't reach the CEILING
+//end
+chest
+touch, unlock
+False
+It probably won't fit through the door
+False
+ 
+False
+It feels more sturdy than it looks
+rotas
+The chest opens to reveal ... a STICK?
+//end
+stick
+touch, read(?)
+True
+It's a bit prickly
+There are 4 words, each going down each side of the stick. The first word is: txosm. The second is: hidee. The third is: eteln. The fourth is: eciet
+???
+True
+It is a stick. Have you seen a stick before?
+//end
+code
+element
+//end
+remarks
+The door beeps open
+Room 4, here we go
+//end

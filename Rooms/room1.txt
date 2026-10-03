@@ -1,0 +1,60 @@
+Introduction
+They shove you into a room from behind, then untie you from your bonds
+The room is small, a DESK sits at one end with a BOOK sitting in the middle
+A door next to the DESK stands foreboding
+You start to turn around when the door behind you slams, startling you
+You have no choice. You must escape from this one
+The infamous master of the Escape Rooms
+No room has held you back before
+You walk towards the door behind you, its locked from the outside
+The door next to the DESK is locked with a code
+The game
+Is on
+(Type "help" for a list of actions)
+//end
+desk
+touch
+False
+It's too big
+False
+None
+False
+The table feels old, like the BOOK
+//end
+book
+touch, read
+True
+The BOOK feels light
+All the pages had been ripped out except for page 3: "Maybe," said Reyna "They have already won." They sat dejectedly, staring at the FLOOR.
+You grimace, even captured, they taunt me.
+True
+The BOOK feels ... old
+//end
+floor
+read, touch
+False
+None
+Wooden planks line the floor
+None
+False
+The FLOOR feels hollow. You knock and it echos. You kick the wooden plank and it swings open, revealing a PLAQUE
+//end
+plaque
+read
+False
+You can't reach the PLAQUE
+Well done. Wasn't that easy. Here is the final clue: name
+Name. Well isn't that useful.
+True
+You can't reach the PLAQUE
+//end
+code
+reyna
+//end
+remarks
+The door beeps and you smile to yourself, that was easy
+You step forward to freedom
+Only to realise, that isn't the end
+The door reveals another room.
+Welcome, to 2
+//end

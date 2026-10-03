@@ -1,0 +1,35 @@
+Introduction
+ln1
+ln2
+ln3
+ln4
+ln5
+...
+//end
+
+1) name: Item1
+
+2)take, read, recall, touch, unlock: name of what is observable or False
+
+3)bool: can take
+
+4)message when taken (attempt)
+
+5)message: what can be read or False
+
+6)reaction: reaction to message or None
+
+7)bool: can recall message
+
+8)what felt when touched
+
+(9) code to unlock)
+
+(10) message when unlocked)
+
+//end
+
+[name, can take?, message when taken,
+message when read(or False), reaction to message,
+can recall message?, what felt when touched,
+code to unlock, message when unlocked]

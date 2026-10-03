@@ -1,0 +1,95 @@
+Introduction
+It's getting old, this
+Another room
+Yay
+The first thing that strikes you is how close the WALLS are and how high the CEILING is
+A CUPBOARD stands in one corner with a 4 digit lock
+A TABLE stands next to the CUPBOARD with another CARD
+In addition, there are six strange-looking POTIONS on the TABLE
+You turn round and a SIGN hangs above the door, saying:
+Theme: Alchemy
+Hmmm...
+Interesting
+//end
+walls
+touch, read
+False
+How do you plan on doing that?
+There are tally marks on the wall
+198 of them. Counting them sucked
+False
+The cool stone seems freezing cold. Are you underground?
+//end
+cupboard
+touch, unlock
+False
+Please stop taking stuff
+False
+None
+False
+Bruh. Tis a cupboard
+1939
+The CUPBOARD opens to reveal a piece of PAPER
+//end
+table
+touch
+False
+PLACEHOLDER
+False
+None
+False
+The wood is sturdy
+//end
+potions
+touch, read
+False
+PLACEHOLDER
+They are in the order, Green, Green, Yellow, Orange, Blue, Green
+None
+False
+You pick up the potions and give them a swirl. Nothing
+//end
+sign
+read
+False
+PLACEHOLDER
+Theme: Alchemy
+Hmm... Interesting
+False
+Can't reach it
+//end
+card
+touch, read
+True
+PLACEHOLDER
+CMXXXIX
+Roman numerals?
+False
+It is made from high quality paper
+//end
+paper
+touch, read
+False
+PLACEHOLDER
+A=1, B=2, C=3, ..., Z=26, a=0, b=0, c=0, ..., z=0
+What can you do with this?
+False
+It is made from high quality paper
+//end
+ceiling
+read
+False
+PLACEHOLDER
+Scrawled in chalk is a message, exitcode = sum of the POTIONS + days spent here
+What on earth is theh sum of the potions?
+False
+It is too far away
+//end
+code
+261
+//end
+remarks
+What was that about the theme?
+Anyway
+Next room
+//end
